@@ -4,8 +4,8 @@
 
 I design hardware and write the firmware that runs on it. 2nd-year EE at the University of Alberta, on the electrical team of the **U of A Eco Car Club** (Shell Eco-marathon 2027).
 
-<sub><b>Now</b> &nbsp;·&nbsp; Eco Car e-stop board &nbsp;·&nbsp; NeetCode 75 in Python</sub><br>
-<sub><b>Reach me</b> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/arnav-suri-81a57a37a/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:15arnavsuri@gmail.com">15arnavsuri@gmail.com</a> &nbsp;·&nbsp; Edmonton, AB</sub>
+<b>Now</b> &nbsp;·&nbsp; Eco Car e-stop board &nbsp;·&nbsp; NeetCode 75 in Python<br>
+<b>Reach me</b> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/arnav-suri-81a57a37a/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:15arnavsuri@gmail.com">15arnavsuri@gmail.com</a> &nbsp;·&nbsp; Edmonton, AB
 
 ### Selected work
 
@@ -21,7 +21,8 @@ I design hardware and write the firmware that runs on it. 2nd-year EE at the Uni
 <td width="50%" valign="top">
 
 **[ARGUS →](https://github.com/Maazin2007/ARGUS)**<br>
-<sub>Astronaut health monitor, NASA Space Apps 2026. Built the app screens and crew handover report.</sub>
+<sub>Astronaut health app, NASA Space Apps 2026.</sub><br>
+<code>Hackathon</code>
 
 </td>
 </tr>
