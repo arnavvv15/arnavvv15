@@ -12,6 +12,7 @@ I design hardware and write the firmware that runs on it. 2nd-year EE at the Uni
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="./spacer.svg" width="560" height="1"><br>
 
 **[STM32 Dev Board →](https://github.com/arnavvv15/Onboarding)**<br>
 <sub>Custom STM32 microcontroller PCB, schematic to fabrication.</sub><br>
@@ -19,6 +20,7 @@ I design hardware and write the firmware that runs on it. 2nd-year EE at the Uni
 
 </td>
 <td width="50%" valign="top">
+<img src="./spacer.svg" width="560" height="1"><br>
 
 **[ARGUS →](https://github.com/Maazin2007/ARGUS)**<br>
 <sub>Astronaut health app, NASA Space Apps 2026.</sub><br>
